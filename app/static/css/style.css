@@ -1,0 +1,24 @@
+/* Estilos para o botão de login do Google */
+#google-signin-button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* Estilos para a div que exibe informações do usuário autenticado */
+#userInfo {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+/* Estilos para o formulário de login */
+#loginForm {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+/* Estilos para o botão de login do formulário */
+#loginButton {
+    margin-top: 10px;
+}
